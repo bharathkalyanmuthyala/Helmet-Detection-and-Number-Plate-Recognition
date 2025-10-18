@@ -1,0 +1,12 @@
+torch==2.5.0
+torchvision==0.20.0
+matplotlib
+numpy
+scipy
+opencv-python
+ultralytics
+transformers
+easyocr
+pandas
+paddlepaddle
+cvzone

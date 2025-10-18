@@ -1,0 +1,6 @@
+train: D:\MINOR\dataset_old\train\images
+val: D:\MINOR\dataset_old\test\images
+
+nc: 4
+
+names: ["with helmet", "without helmet", "rider", "number plate"]

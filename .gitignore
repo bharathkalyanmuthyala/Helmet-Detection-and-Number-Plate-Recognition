@@ -1,0 +1,5 @@
+myenv/
+runs/
+yolo-weights/
+*.pt
+*.zip
