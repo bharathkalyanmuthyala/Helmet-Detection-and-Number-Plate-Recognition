@@ -31,9 +31,9 @@ The number plate recognition module uses Optical Character Recognition (OCR) tec
 ## Dataset
 -Acquired a comprehensive dataset from online sources containing 120 images with complete rider information, including the rider, helmet presence, and visible number plate and annotated it.
 
-[Dataset](https://www.kaggle.com/datasets/aneesarom/rider-with-helmet-without-helmet-number-plate/data)
-[Dataset](https://universe.roboflow.com/label-bq9bf/helmet-and-number-plate-tpxed/browse)
-[Dataset](https://universe.roboflow.com/helmet-and-number-plate-detection-fkooz/helmet-and-number-plate-fwans)
+- [Dataset 1](https://www.kaggle.com/datasets/aneesarom/rider-with-helmet-without-helmet-number-plate/data)  
+- [Dataset 2](https://universe.roboflow.com/label-bq9bf/helmet-and-number-plate-tpxed/browse)  
+- [Dataset 3](https://universe.roboflow.com/helmet-and-number-plate-detection-fkooz/helmet-and-number-plate-fwans)
 
 ## Archietecture Used
 - YOLO
